@@ -342,7 +342,7 @@ If there's commercial interest in expanding to a multi-user platform, contributi
 
 For issues or questions:
 - **GitHub Issues**: [rpg-planner/issues](https://github.com/maercaestro/rpg-planner/issues)
-- **Email**: [Your contact email if you want to add it]
+- **Email**: [research@ahead-huzaifah.com]
 
 ---
 
