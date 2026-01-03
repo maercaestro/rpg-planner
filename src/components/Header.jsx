@@ -7,7 +7,7 @@ const Header = () => {
         <div className="flex items-center gap-4">
           {/* Logo */}
           <img 
-            src="/src/assets/logo.png" 
+            src="/logo.png" 
             alt="System Logo" 
             className="h-10 w-10 object-contain"
           />

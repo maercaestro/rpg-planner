@@ -62,7 +62,7 @@ const ProfileCard = () => {
                 }}
               >
                 <img 
-                  src="/src/assets/character-badge.png" 
+                  src="/character-badge.png" 
                   alt="Character Portrait" 
                   className="w-64 h-64 object-cover"
                   style={{
